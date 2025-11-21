@@ -41,9 +41,13 @@ E. Project Structure
 TicTacToe/src/
 
  ├── Main.java
+ 
  ├── StartMenu.java
+ 
  ├── GameGUI.java
+ 
  ├── Board.java
+ 
  └── ComputerAI.java
 
 
