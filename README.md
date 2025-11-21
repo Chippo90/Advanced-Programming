@@ -30,10 +30,10 @@ C. Installation
    
 D. Usage
 1. Launch the app.
-2. Click Browse PDF to select a file.
-3. Click Convert to DOCX to begin conversion.
-4. View progress and final word/page count.
-5. Find the converted DOCX saved in the same directory.
+2. Choose a shape between X, O, ▲, ■
+3. Computer will choose a random shape as well.
+4. Play the game to win or lose.
+5. Game will finish and winner will be announced.
 
 E. Project Structure
 
