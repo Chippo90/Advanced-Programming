@@ -15,12 +15,10 @@ B. Technologies Used
 
 | Library         | Purpose                                      |
 |----------------|----------------------------------------------|
-| `tkinter`       | GUI creation and user interaction            |
-| `filedialog`    | File selection dialog                        |
-| `messagebox`    | Popup alerts and error messages              |
-| `fitz` (PyMuPDF)| PDF parsing and text extraction              |
-| `python-docx`   | DOCX file creation and formatting            |
-| `threading`     | Background processing for smooth UI          |
+| `javax.swing`      | Provides components for building the graphical user interface (GUI) such as buttons, panels, and frames.            |
+| `java.awt`    | Used for layout management, event handling, and basic GUI elements like fonts and colors.                      |
+| `java.util`    | Provides utility classes like Random for AI move selection and other data structures.              |
+
 
 C. Installation
 
