@@ -1,15 +1,15 @@
 Tic Tac Toe Game
 
-A lightweight desktop application built with Python that converts PDF files into editable DOCX documents. Designed with GUI using Tkinter, the tool extracts text from each page, counts total words and pages, and provides real-time progress updates—all while maintaining a responsive interface through background threading.
+A Java GUI implementation of Tic-Tac-Toe built for the B202 Advanced Programming module at GISMA University of Applied Sciences.
 
 A. Features
 
-- Select and preview PDF file path
-- Convert PDF to DOCX with one click
-- Real-time progress updates during conversion
-- Displays total word count and page count
-- Responsive GUI using multithreading
-- Error handling and success notifications
+- Java Swing GUI
+- Player vs Computer
+- Shape selection: X, O, ▲, ■
+- Win & draw detection
+- Encapsulated board logic
+- Simple AI move selection
 
 B. Technologies Used
 
@@ -24,12 +24,9 @@ B. Technologies Used
 
 C. Installation
 
-1. **Clone the repository**
-   git clone https://github.com/Chippo90/Software-Design-and-Modeling.git
-2. Install dependencies
-   pip install pymupdf python-docx
-3. Run the application
-   main.py
+1. Clone the repository git clone https://github.com/Chippo90/Advanced-Programming.git
+2. Open in a IntelliJ IDEA Ultimate
+3. Compile and run Main.java
    
 D. Usage
 1. Launch the app.
@@ -41,12 +38,14 @@ D. Usage
 E. Project Structure
 
 
-Software-Design-and-Modeling/
+TicTacToe/src/
 
-├── main.py         
-├── README.md            
-├── GH1034223 - Chehab Hany's Final Assessment.pdf    
-└── UML Diagrams/
+├── Main.java         
+├── StartMenu.java            
+├── GameGUI.java  
+├── Board.java
+└── ComputerAI.java
+
 
 F. Demo Video Link
 
