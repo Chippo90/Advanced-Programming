@@ -2,7 +2,7 @@ Tic Tac Toe Game
 
 A Java GUI implementation of Tic-Tac-Toe built for the B202 Advanced Programming module at GISMA University of Applied Sciences.
 
-**A. Features**
+A. Features
 
 - Java Swing GUI
 - Player vs Computer
