@@ -48,7 +48,7 @@ TicTacToe/src/
 
 F. Demo Video Link
 
-https://youtu.be/WhVEsJ50ZKM
+https://youtu.be/njPwROlc2Jc
 
 G. License
 
